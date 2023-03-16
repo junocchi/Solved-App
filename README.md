@@ -69,25 +69,6 @@ The following guidance shows how to use NPM to setup and manage a JavaScript pro
 
 If you don't have NVM ( Node Version Manager) on your machine [click here](https://github.com/nvm-sh/nvm#installing-and-updating) to install it.
 
-```
-# Setup your enviroment to use the latest version
-
-$ nvm use node
-
-# Initialize the NPM project
-
-$ npm init -y
-
-# Add jest package
-
-$ npm add jest
-
-# Install jest 'globally'
-
-$npm install -g jest
-
-```
-
 ### XCode Developer Tools
 
 💻 Install [XCode Developer Tools](https://apps.apple.com/us/app/xcode/id497799835?mt=12)
