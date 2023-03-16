@@ -29,7 +29,7 @@ This mobile app was created as final project by team of 5 junior software engine
 [Marta Bianchini](https://github.com/MartaBia),
 [Michal Smyk](https://github.com/MichalSmyk)
 
-We didn't just stumble upon the idea for this app by accident. It all started with maps... but ended up being so much more !
+We didn't just stumble upon the idea for this app by accident. It all started with maps...but ended up being so much more!
 
 Check out our:
 
@@ -57,15 +57,15 @@ To run the app you will need:
 
 ### Node.js
 
-💻 You will need Node.js on your machine. If you don't have it you can istall it using this command line in your terminal with brew for macOS.
+💻 You will need Node.js on your machine. If you don't have it you can install it using this command line in your terminal with brew for macOS.
 
 ```
 $ brew install node
 ```
 
-Or on Windows machine, go to [Node.js](https://nodejs.org/en/) website and follow instructions
+Or on Windows machine, go to [Node.js](https://nodejs.org/en/) website and follow the instructions.
 
-The following guidance shows how to use NPM to setup and manage a JavaScript project and it's dependencies.
+The following guidance shows how to use NPM to setup and manage a JavaScript project and its dependencies.
 
 If you don't have NVM ( Node Version Manager) on your machine [click here](https://github.com/nvm-sh/nvm#installing-and-updating) to install it.
 
@@ -138,8 +138,7 @@ $ npx expo start
 
 Once expo server is running and you have Xcode and Android simulator installed press `i` for iOS simulator and `a` for Android simulator.
 
-You can also see the app on your iOS/Android phone.
-To do that you will need Expo Go app. After downloading the app on your phone you can scan QR code that will be displayed when you run `npx expo start` in your terminal
+You can also see a rendering of the app using an iOS/Android phone and the Expo Go app. After downloading the Expo Go app you will be able to scan a QR code displayed when you run `npx expo start` in your terminal.
 
 ## Running tests
 
