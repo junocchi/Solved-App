@@ -23,11 +23,11 @@ A news section (usually for users) -->
 
 This mobile app was created as final project by team of 5 junior software engineers at [Makers Academy](https://makers.tech/):
 
-[Orhan Khanbayov](https://github.com/orhankhanbayov)
+[Orhan Khanbayov](https://github.com/orhankhanbayov),
 [David Scott](https://github.com/sirdavy),
 [Juliana Nocchi](https://github.com/junocchi),
 [Marta Bianchini](https://github.com/MartaBia),
-[Michal Smyk](https://github.com/MichalSmyk),
+[Michal Smyk](https://github.com/MichalSmyk)
 
 We didn't just stumble upon the idea for this app by accident. It all started with maps... but ended up being so much more !
 
