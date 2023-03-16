@@ -3,7 +3,9 @@
     "name": "Solved",
     "slug": "Solved",
     "version": "1.0.0",
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "bundleIdentifier": "com.arrogate.solved",
       "buildNumber": "1.0.0"
@@ -15,7 +17,12 @@
           "cameraPermission": "Allow $(PRODUCT_NAME) to access your camera."
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "ee2cc4bb-9ae4-4ad0-a4a7-eb615c082eb3"
+      }
+    }
   },
   "name": "frontend"
 }
