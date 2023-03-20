@@ -93,21 +93,24 @@ Then, follow the instructions (steps 5 to 8), from [Android Studio Emulator](htt
 
 ### Google API
 
-<!-- Orhan can you say that features have to be enabled in google API key  -->
-
 First step to getting an API (or starting any project using google ‘stuff’) is setting up an account [here](https://console.cloud.google.com/google/maps-apis/discover?utm_source=Docs_GS_Button&ref=https:%2F%2Fdevelopers.google.com%2Fmaps%2F&pli=1).
 
 You need to enter a bank card even with a free-use plan.
 
 Once signed up it creates a generic/default starter project and generates an API key. But you can select ‘new project’ and it will give you another key specific to that one.
+When you API key is active you will also need to enable Google Vision, Places and Directions
 
 ### TripAdvisor
 
 To get TripAdvisor API key go to [developer page](https://www.tripadvisor.com/developers) and create you API key.
 
-<!-- TODO -->
+### API keys usage 
 
-Upload your apis in .env file ( we need to say how they have to name them based on what we have in code base)
+Once your both API keys are active, you will need to create an .env file in frontend direcotry. Save your Google and TripAdvisor keys there
+```
+API_KEY=//your TripAdvisor key here//
+GOOGLE_API=//your Google key here//
+```
 
 ## Usage
 
