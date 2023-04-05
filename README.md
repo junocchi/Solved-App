@@ -33,7 +33,7 @@ We didn't just stumble upon the idea for this app by accident. It all started wi
 
 Check out our:
 
-🚀 [Demo](https://youtu.be/78rBCHajgCM?t=1218)
+🚀 [Demo](https://www.youtube.com/watch?v=78rBCHajgCM&t=1675s)
 
 🚀 [Presentation](https://drive.google.com/file/d/1WXGYuqBnRJGck4d0YvFUk2NJafbDZ2mq/view?usp=sharing)
 
